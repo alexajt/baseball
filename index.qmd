@@ -2,4 +2,6 @@
 title: "Baseball Through Data"
 ---
 
-Welcome! This site explores the history of Major League Baseball through its numbers, uncovering how the game and its players have evolved over more than a century. All analyses and visualizations draw from the classic Lahman Baseball Database, a comprehensive archive of historical batting, pitching, and team statistics.
+This site explores over 150 years of Major League Baseball history using the Lahman Baseball Database, tracking how power hitting has reshaped the sport. Looking at raw home run totals makes shortened seasons—such as the 1981 and 1994 player strikes or the 60-game 2020 season—look like sudden collapses, but switching to home runs per team-game reveals a steady, century-long rise in power where those shortened years fit right along the curve.
+
+Zooming in on individual careers shows how strongly that modern power surge reshaped the record books: nine of baseball's top fifteen all-time home run leaders played during the 1994–2009 steroid era, topped by Barry Bonds with 762 career homers and an extraordinary late-career peak of 73 in 2001. Use the **Home runs** and **Sluggers** links in the navigation bar above to explore the charts and data behind each story.
